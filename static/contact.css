@@ -1,0 +1,11 @@
+.contactdivforexcel{
+    /* background-color: red; */
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.formclasside{
+    /* background-color: red; */
+}
